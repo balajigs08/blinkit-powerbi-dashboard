@@ -77,9 +77,9 @@ The dashboard helps analyze sales performance, outlet distribution, customer rat
 
 MCA Student | Aspiring Data Analyst | Power BI Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/balajigs08
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn:  https://www.linkedin.com/in/balajigs8
 
 ---
 
